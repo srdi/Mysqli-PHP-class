@@ -1,2 +1,2 @@
-# Mysqli-PHP-class
-Interface to mysqli API
+# About
+Interface to mysqli API. This will help you interact with mysqli API more easy.
